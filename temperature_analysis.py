@@ -1,5 +1,5 @@
-# Name: [Your Name]
-# Roll Number: [Your Roll Number]
+# Name: Shivani B.
+# Roll Number: iitp_aimlh_2602020
 # Assignment: Python Loops & Automation - Subjective Question
 
 print("===== Task 1: Find Maximum and Minimum =====")
@@ -56,3 +56,4 @@ for day in range(len(temperatures)):
         continue
       
     count_hot_days += 1
+
